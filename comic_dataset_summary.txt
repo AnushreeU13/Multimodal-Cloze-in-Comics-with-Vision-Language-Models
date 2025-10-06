@@ -1,0 +1,21 @@
+
+Comic Dataset Summary Report
+==================================================
+
+Dataset Location: C:\Users\uanus\Box\AML Comic Project
+Total Folders: 15
+Total Images: 3,457
+
+Statistics:
+- Average images per folder: 230.5
+- Median images per folder: 219.0
+- Minimum images in folder: 4
+- Maximum images in folder: 452
+- Standard deviation: 91.2
+
+Folder Distribution:
+- Folders with 100+ images: 14
+- Folders with 200+ images: 14
+- Folders with 300+ images: 3
+
+Generated on: 2025-10-06 00:03:30
